@@ -1,0 +1,6 @@
+opencv-contrib-python
+matplotlib
+sklearn
+tenserflow
+keras-tuner
+pydot
